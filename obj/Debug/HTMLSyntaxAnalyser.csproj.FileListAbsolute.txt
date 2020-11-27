@@ -1,0 +1,10 @@
+F:\projects\HTMLSyntaxAnalyser\bin\Debug\HTMLSyntaxAnalyser.exe.config
+F:\projects\HTMLSyntaxAnalyser\bin\Debug\HTMLSyntaxAnalyser.exe
+F:\projects\HTMLSyntaxAnalyser\bin\Debug\HTMLSyntaxAnalyser.pdb
+F:\projects\HTMLSyntaxAnalyser\obj\Debug\HTMLSyntaxAnalyser.csprojAssemblyReference.cache
+F:\projects\HTMLSyntaxAnalyser\obj\Debug\HTMLSyntaxAnalyser.HTMLSyntaxAnalyser.resources
+F:\projects\HTMLSyntaxAnalyser\obj\Debug\HTMLSyntaxAnalyser.Properties.Resources.resources
+F:\projects\HTMLSyntaxAnalyser\obj\Debug\HTMLSyntaxAnalyser.csproj.GenerateResource.cache
+F:\projects\HTMLSyntaxAnalyser\obj\Debug\HTMLSyntaxAnalyser.csproj.CoreCompileInputs.cache
+F:\projects\HTMLSyntaxAnalyser\obj\Debug\HTMLSyntaxAnalyser.exe
+F:\projects\HTMLSyntaxAnalyser\obj\Debug\HTMLSyntaxAnalyser.pdb
